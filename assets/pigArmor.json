@@ -1,0 +1,36 @@
+{"frames": {
+
+"0.png":
+{
+	"frame": {"x":0,"y":0,"w":150,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":180},
+	"sourceSize": {"w":150,"h":180}
+},
+"1.png":
+{
+	"frame": {"x":150,"y":0,"w":150,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":180},
+	"sourceSize": {"w":150,"h":180}
+},
+"2.png":
+{
+	"frame": {"x":300,"y":0,"w":150,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":180},
+	"sourceSize": {"w":150,"h":180}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "pigArmor.png",
+	"format": "RGBA8888",
+	"size": {"w":450,"h":180},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8f087b15fb403c302d7269eeb2e44c74:4c88ac548890bb7a29f3bae164772733:fda2d1fe45aa7f9d64de9e731558c5f6$"
+}
+}
